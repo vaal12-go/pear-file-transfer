@@ -13,4 +13,5 @@ Will accept either -s [file_path] argument for sending the file will emit the ha
 NA for the moment
 
 ## Thanks / libraries used:
-1. [Holepunch Pear P2P library](https://github.com/holepunchto/pear)
+1. [Holepunch Pear](https://github.com/holepunchto/pear) javascript P2P library
+2. [Commander.js](https://www.npmjs.com/package/commander) cli argument parsing library
